@@ -1,1 +1,1 @@
-# CEU-Business-Analytics-2020
+This is a repository to help my during my studies at CEU Business Analytics!
